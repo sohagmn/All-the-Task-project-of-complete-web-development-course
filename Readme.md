@@ -1,5 +1,21 @@
 # Web Development Course Tasks
 
+## Table of Contents
+- [Module 1: HTML Basics](#module-1-html-basics)
+- [Module 2: CSS Basics](#module-2-css-basics)
+- [Module 3: Git](#module-3-git)
+- [Module 4: More about HTML](#module-4-more-about-html)
+- [Module 5: Think and Make Essential UI Components](#module-5-think-and-make-essential-ui-components)
+- [Module 6: Build a Beautiful Portfolio](#module-6-build-a-beautiful-portfolio)
+- [Module 7: Set Your Web Development Objective (Assignment 1)](#module-7-set-your-web-development-objective-assignment-1)
+- [Module 7.5: Pseudo Classes, Elements, Position](#module-75-pseudo-classes-elements-position)
+- [Module 8: Responsive Website Layout](#module-8-responsive-website-layout)
+- [Module 9: More Responsive Layout and Responsive Portfolio](#module-9-more-responsive-layout-and-responsive-portfolio)
+- [Module 10: HTML/CSS-only Landing Page - G3 Architects](#module-10-htmlcss-only-landing-page---g3-architects)
+- [Module 11: Optimize Images, Icons, and More CSS](#module-11-optimize-images-icons-and-more-css)
+
+---
+
 ## Module 1: HTML Basics
 
 ### Practice Task 1
@@ -53,7 +69,9 @@
         - [ ] Main page (`index.html`) with links (`<a>`) to subpages.
         - [ ] Each subpage should have an `<h2>` heading, paragraphs (`<p>`), and a link back to the main page.
 
+
 ---
+
 
 ## Module 2: CSS Basics
 
@@ -81,7 +99,9 @@
 - [x] Build a webpage with different elements like images, headings, paragraphs, and buttons.
 - [x] Apply CSS styles to set the `display` property to `none`, `hidden`, `inline`, `block`, and `inline-block` for specific elements.
 
+
 ---
+
 
 ## Module 3: Git
 
@@ -146,7 +166,9 @@
 - [x] Make another commit with a mistake.
 - [x] Use `git reset` to remove the bad commit from the history.
 
+
 ---
+
 
 ## Module 4: ## More about HTML
 
@@ -254,6 +276,9 @@
 - [ ]  **Animated Navbar**
     - Create a navbar with smooth animations when hovering over links or clicking on dropdowns.
 
+---
+
+
 ## Module 5: Think and Make Essential UI Components
 
 ### Exercise Questions
@@ -289,20 +314,36 @@
 - [ ]  **Complex Nested Layout**
     - Design a complex nested flexbox layout with multiple nested containers and varying alignments to practice advanced flexbox concepts.
 
+
+---
+
+
 ## Module 6: Build a Beautiful Portfolio
 
 - [ ]  **Build a Beautiful Portfolio**
     - Create a portfolio website showcasing your projects, skills, and contact information. Use HTML, CSS, and possibly JavaScript to make it interactive and visually appealing.
+
+
+---
+
 
 ## Module 7: Set Your Web Development Objective (Assignment 1)
 
 - [ ]  **Set Your Web Development Objective**
     - Define your goals and objectives as a web developer. Consider what skills you want to improve, projects you want to build, or career milestones you aim to achieve.
 
+
+---
+
+
 ## Module 7.5: Pseudo Classes, Elements, Position
 
 - [ ]  **Pseudo Classes, Elements, Position**
     - Practice using pseudo-classes (:hover, :focus, :nth-child, etc.), pseudo-elements (::before, ::after), and CSS positioning (absolute, relative, fixed) to style and position elements effectively.
+
+
+---
+
 
 ## Module 8: Responsive Website Layout
 
@@ -326,16 +367,30 @@
 
 - [ ]  Optimize and adjust images in your responsive layouts to ensure they display correctly and efficiently on different screen resolutions.
 
+
+---
+
+
 ## Module 9: More Responsive Layout and Responsive Portfolio
 
 - [ ]  Complete additional exercises focusing on advanced responsive layout techniques and apply them to your portfolio project.
+- [ ]  [simple responsive challange](https://github.com/ProgrammingHero1/simple-responsive-challenges.git)
+
+
+---
+
 
 ### Module 10: HTML/CSS-only Landing Page - G3 Architects
 
 - [ ]  Implement a complete landing page using only HTML and CSS, following the design guidelines provided for G3 Architects.
+- [ ]  [g3 architects resources](https://github.com/ProgrammingHero1/g3-architects-resources)
+
+
+---
+
 
 ### Module 11: Optimize Images, Icons, and More CSS
 
-- [ ]  Learn techniques to optimize images for web use, integrate icons into your projects using icon libraries or custom SVGs, and refine CSS styles for improved performance and aesthetics.
+- [ ]  Learn techniques to optimize images for web use, integrate icons into your projects using icon libraries or custom SVGs, and refine CSS styles for improved performance and aesthetics. [create influencer gear website](https://github.com/ProgrammingHero1/influencer-gear)
 
 
