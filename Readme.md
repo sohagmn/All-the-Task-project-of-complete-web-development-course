@@ -260,6 +260,9 @@
 - [ ]  **Animated Navbar**
     - Create a navbar with smooth animations when hovering over links or clicking on dropdowns.
 
+---
+
+
 ## Module 5: Think and Make Essential UI Components
 
 ### Exercise Questions
@@ -294,6 +297,10 @@
     - Create a hero section that is vertically and horizontally centered within the viewport.
 - [ ]  **Complex Nested Layout**
     - Design a complex nested flexbox layout with multiple nested containers and varying alignments to practice advanced flexbox concepts.
+
+
+---
+
 
 ## Module 6: Build a Beautiful Portfolio
 
