@@ -1,5 +1,21 @@
 # Web Development Course Tasks
 
+## Table of Contents
+- [Module 1: HTML Basics](#module-1-html-basics)
+- [Module 2: CSS Basics](#module-2-css-basics)
+- [Module 3: Git](#module-3-git)
+- [Module 4: More about HTML](#module-4-more-about-html)
+- [Module 5: Think and Make Essential UI Components](#module-5-think-and-make-essential-ui-components)
+- [Module 6: Build a Beautiful Portfolio](#module-6-build-a-beautiful-portfolio)
+- [Module 7: Set Your Web Development Objective (Assignment 1)](#module-7-set-your-web-development-objective-assignment-1)
+- [Module 7.5: Pseudo Classes, Elements, Position](#module-75-pseudo-classes-elements-position)
+- [Module 8: Responsive Website Layout](#module-8-responsive-website-layout)
+- [Module 9: More Responsive Layout and Responsive Portfolio](#module-9-more-responsive-layout-and-responsive-portfolio)
+- [Module 10: HTML/CSS-only Landing Page - G3 Architects](#module-10-htmlcss-only-landing-page---g3-architects)
+- [Module 11: Optimize Images, Icons, and More CSS](#module-11-optimize-images-icons-and-more-css)
+
+---
+
 ## Module 1: HTML Basics
 
 ### Practice Task 1
