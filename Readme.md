@@ -329,13 +329,17 @@
 ## Module 9: More Responsive Layout and Responsive Portfolio
 
 - [ ]  Complete additional exercises focusing on advanced responsive layout techniques and apply them to your portfolio project.
+- [ ]  [simple responsive challange](https://github.com/ProgrammingHero1/simple-responsive-challenges.git)
+
 
 ### Module 10: HTML/CSS-only Landing Page - G3 Architects
 
 - [ ]  Implement a complete landing page using only HTML and CSS, following the design guidelines provided for G3 Architects.
+- [ ]  [g3 architects resources](https://github.com/ProgrammingHero1/g3-architects-resources)
+
 
 ### Module 11: Optimize Images, Icons, and More CSS
 
-- [ ]  Learn techniques to optimize images for web use, integrate icons into your projects using icon libraries or custom SVGs, and refine CSS styles for improved performance and aesthetics.
+- [ ]  Learn techniques to optimize images for web use, integrate icons into your projects using icon libraries or custom SVGs, and refine CSS styles for improved performance and aesthetics. [create influencer gear website](https://github.com/ProgrammingHero1/influencer-gear)
 
 
