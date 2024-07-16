@@ -53,7 +53,9 @@
         - [ ] Main page (`index.html`) with links (`<a>`) to subpages.
         - [ ] Each subpage should have an `<h2>` heading, paragraphs (`<p>`), and a link back to the main page.
 
+
 ---
+
 
 ## Module 2: CSS Basics
 
@@ -81,7 +83,9 @@
 - [x] Build a webpage with different elements like images, headings, paragraphs, and buttons.
 - [x] Apply CSS styles to set the `display` property to `none`, `hidden`, `inline`, `block`, and `inline-block` for specific elements.
 
+
 ---
+
 
 ## Module 3: Git
 
@@ -146,7 +150,9 @@
 - [x] Make another commit with a mistake.
 - [x] Use `git reset` to remove the bad commit from the history.
 
+
 ---
+
 
 ## Module 4: ## More about HTML
 
@@ -294,15 +300,27 @@
 - [ ]  **Build a Beautiful Portfolio**
     - Create a portfolio website showcasing your projects, skills, and contact information. Use HTML, CSS, and possibly JavaScript to make it interactive and visually appealing.
 
+
+---
+
+
 ## Module 7: Set Your Web Development Objective (Assignment 1)
 
 - [ ]  **Set Your Web Development Objective**
     - Define your goals and objectives as a web developer. Consider what skills you want to improve, projects you want to build, or career milestones you aim to achieve.
 
+
+---
+
+
 ## Module 7.5: Pseudo Classes, Elements, Position
 
 - [ ]  **Pseudo Classes, Elements, Position**
     - Practice using pseudo-classes (:hover, :focus, :nth-child, etc.), pseudo-elements (::before, ::after), and CSS positioning (absolute, relative, fixed) to style and position elements effectively.
+
+
+---
+
 
 ## Module 8: Responsive Website Layout
 
@@ -326,16 +344,26 @@
 
 - [ ]  Optimize and adjust images in your responsive layouts to ensure they display correctly and efficiently on different screen resolutions.
 
+
+---
+
+
 ## Module 9: More Responsive Layout and Responsive Portfolio
 
 - [ ]  Complete additional exercises focusing on advanced responsive layout techniques and apply them to your portfolio project.
 - [ ]  [simple responsive challange](https://github.com/ProgrammingHero1/simple-responsive-challenges.git)
 
 
+---
+
+
 ### Module 10: HTML/CSS-only Landing Page - G3 Architects
 
 - [ ]  Implement a complete landing page using only HTML and CSS, following the design guidelines provided for G3 Architects.
 - [ ]  [g3 architects resources](https://github.com/ProgrammingHero1/g3-architects-resources)
+
+
+---
 
 
 ### Module 11: Optimize Images, Icons, and More CSS
