@@ -397,7 +397,7 @@ This repository contains practice tasks for each module of the web development c
 ### Task 3: Services Section
 
 - Create a section to showcase the services offered by G3 Architects.
-- Use CSS to style the service cards and make them visually
+- Use CSS to style the service cards and make them visuallly
 
 
 
